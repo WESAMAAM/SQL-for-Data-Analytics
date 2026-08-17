@@ -186,7 +186,7 @@ The top five were:
 | Tableau  |    46,554 |
 | Power BI |    39,468 |
 
-![Query 3](images/query-3.png)
+![Query 3](https://github.com/WESAMAAM/SQL-for-Data-Analytics/blob/main/images/Screenshot%202026-08-17%20034057.png?raw=true)
 
 Seeing **SQL at the top of the results** was especially interesting because SQL was the main subject I had just spent time learning through the course.
 
