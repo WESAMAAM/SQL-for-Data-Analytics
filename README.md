@@ -12,7 +12,7 @@
 
 ## Introduction
 
-I recently completed **SQL for Data Analytics - Learn SQL in 4 Hours** by **Luke Barousse**, The goal of taking this course was to build a solid foundation in SQL and learn how SQL can be used for data analysis, Rather than stopping after completing the course, I wanted to apply what I learned to a practical project using a real-world dataset, This repository contains both **my SQL learning journey from the course** and the **project I built to practice those skills**.
+I completed **SQL for Data Analytics - Learn SQL in 4 Hours** by **Luke Barousse**, The goal of taking this course was to build a solid foundation in SQL and learn how SQL can be used for data analysis, Rather than stopping after completing the course, I wanted to apply what I learned to a practical project using a real-world dataset, This repository contains both **my SQL learning journey from the course** and the **project I built to practice those skills**.
 
 ![SQL Course](https://github.com/WESAMAAM/SQL-for-Data-Analytics/blob/main/images/Screenshot%202026-08-17%20052535.png?raw=true)
 
@@ -23,73 +23,48 @@ I recently completed **SQL for Data Analytics - Learn SQL in 4 Hours** by **Luke
 Throughout the course, I learned the fundamentals of SQL and how to use them to work with and analyze data.
 
 ### Basic SQL
-
 I started by learning how to retrieve and work with data using:
-
 * `SELECT`
 * `FROM`
 * `WHERE`
 * `ORDER BY`
 * `LIMIT`
-
 These were the building blocks for writing SQL queries and getting the specific data I needed.
 
 ### Filtering and Sorting Data
-
 I learned how to filter datasets based on specific conditions and sort the results.
-
 For example, I learned how to:
-
 * Filter rows using `WHERE`
 * Combine conditions using `AND` and `OR`
 * Sort results using `ORDER BY`
 * Limit the number of returned rows using `LIMIT`
 
 ### Aggregate Functions
-
 I learned how to summarize data using aggregate functions such as:
-
 * `COUNT()`
 * `AVG()`
 * `SUM()`
 * `MIN()`
 * `MAX()`
-
 These functions helped me move from simply looking at individual rows to actually analyzing the data.
 
 ### Grouping Data
-
 I learned how to use:
-
 * `GROUP BY`
 * `HAVING`
-
 This allowed me to group data and perform calculations for each group instead of treating the entire dataset as one group.
 
 ### Joining Tables
-
-One of the most important concepts I learned was how to work with multiple tables.
-
-I practiced using:
-
+One of the most important concepts I learned was how to work with multiple tables, I practiced using:
 * `INNER JOIN`
 * `LEFT JOIN`
-
 This helped me understand how related tables can be combined to answer questions that cannot be answered using a single table.
 
 ### Common Table Expressions
-
-I also learned how to use **Common Table Expressions (CTEs)** with `WITH`.
-
-CTEs helped me break more complicated queries into smaller and easier-to-understand steps.
+I also learned how to use **Common Table Expressions (CTEs)** with `WITH`, CTEs helped me break more complicated queries into smaller and easier-to-understand steps.
 
 ### Writing SQL for Analysis
-
-The course also helped me understand that SQL is not just about knowing the syntax.
-
-The important part is being able to take a question, understand what data is needed, and then build a query that can answer that question.
-
-That became especially important when I started working on the project below.
+The course also helped me understand that SQL is not just about knowing the syntax, The important part is being able to take a question, understand what data is needed, and then build a query that can answer that question, That became especially important when I started working on the project below.
 
 ---
 
