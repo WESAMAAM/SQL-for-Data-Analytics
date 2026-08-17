@@ -7,6 +7,7 @@
   - [Basic SQL](#basic-sql)
   - [Filtering and Sorting Data](#filtering-and-sorting-data)
   ...
+- [Practical Project](#practical-project)
 - [Conclusion](#conclusion)
 
 ## Introduction
