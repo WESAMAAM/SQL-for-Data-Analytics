@@ -170,7 +170,7 @@ I then used joins to find the skills associated with the highest-paying Data Ana
 
 This allowed me to connect job information with the skills required for those jobs.
 
-![Query 2](images/query-2.png)
+![Query 2](https://github.com/WESAMAAM/SQL-for-Data-Analytics/blob/main/images/Screenshot%202026-08-17%20042900.png?raw=true)
 
 ### Query 3 — Most In-Demand Skills
 
