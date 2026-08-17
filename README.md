@@ -192,7 +192,9 @@ Seeing **SQL at the top of the results** was especially interesting because SQL 
 
 ### Query 4 — Average Salary by Skill
 
-I used `AVG()` and grouping to calculate the average salary associated with different skills.
+(I used `AVG()` and grouping to calculate the average salary associated with different skills
+
+![Query 4](https://github.com/WESAMAAM/SQL-for-Data-Analytics/blob/main/images/Screenshot%202026-08-17%20043003.png?raw=true).
 
 This allowed me to look at the relationship between individual skills and salary rather than only looking at how frequently they appeared.
 
