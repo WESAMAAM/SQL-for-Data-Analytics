@@ -10,7 +10,7 @@ Rather than stopping after completing the course, I wanted to apply what I learn
 
 This repository contains both **my SQL learning journey from the course** and the **project I built to practice those skills**.
 
-![SQL Course](images/sql-course.png)
+![SQL Course](https://github.com/WESAMAAM/SQL-for-Data-Analytics/blob/main/images/Screenshot%202026-08-17%20034631.png?raw=true)
 
 ---
 
