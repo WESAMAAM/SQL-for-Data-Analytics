@@ -162,7 +162,7 @@ SQL/
 
 I used filtering, sorting, joins, and `LIMIT` to find the top 10 highest-paying Data Analyst jobs that allow working from home.
 
-![Query 1](images/query-1.png)
+![Query 1](https://github.com/WESAMAAM/SQL-for-Data-Analytics/blob/main/images/Screenshot%202026-08-17%20033653.png?raw=true)
 
 ### Query 2 — Skills in High-Paying Jobs
 
