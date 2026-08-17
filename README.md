@@ -1,6 +1,6 @@
 # SQL for Data Analytics — Learning, Practice and Practical Project
 
-## Table of Contents
+## 📚 Table of Contents
 
 - [Introduction](#introduction)
 - [What I Learned](#what-i-learned)
