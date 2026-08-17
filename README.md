@@ -1,5 +1,14 @@
 # SQL for Data Analytics — Learning & Practical Project
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [What I Learned](#what-i-learned)
+  - [Basic SQL](#basic-sql)
+  - [Filtering and Sorting Data](#filtering-and-sorting-data)
+  ...
+- [Conclusion](#conclusion)
+
 ## Introduction
 
 I recently completed **SQL for Data Analytics - Learn SQL in 4 Hours** by **Luke Barousse**.
