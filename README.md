@@ -151,8 +151,9 @@ SQL/
     ├── query_4.sql
     └── query_5.sql
 ```
-
+![Project Structure](https://github.com/WESAMAAM/SQL-for-Data-Analytics/blob/main/images/Screenshot%202026-08-17%20033601.png?raw=true).
 ![Project Structure](https://github.com/WESAMAAM/SQL-for-Data-Analytics/blob/main/images/Screenshot%202026-08-17%20034145.png?raw=true)
+
 
 ---
 
