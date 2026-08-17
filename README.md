@@ -204,7 +204,7 @@ Finally, I combined skill demand and salary to identify skills that have both st
 
 This query required combining multiple pieces of the analysis instead of simply looking at one column.
 
-![Query 5](images/query-5.png)
+![Query 5](https://github.com/WESAMAAM/SQL-for-Data-Analytics/blob/main/images/Screenshot%202026-08-17%20043033.png?raw=true)
 
 ---
 
