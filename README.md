@@ -14,7 +14,7 @@
 
 I completed **SQL for Data Analytics - Learn SQL in 4 Hours** by **Luke Barousse**, The goal of taking this course was to build a solid foundation in SQL and learn how SQL can be used for data analysis, Rather than stopping after completing the course, I wanted to apply what I learned to a practical project using a real-world dataset, This repository contains both **my SQL learning journey from the course** and the **project I built to practice those skills**.
 
-![SQL Course](https://github.com/WESAMAAM/SQL-for-Data-Analytics/blob/main/images/Screenshot%202026-08-17%20052535.png?raw=true)
+![SQL Course](https://github.com/WESAMAAM/SQL-for-Data-Analytics/blob/main/images/Screenshot%202026-08-18%20052041.png?raw=true)
 
 ---
 
